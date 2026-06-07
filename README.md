@@ -8,9 +8,9 @@ I build practical AI/LLM projects, developer tooling, and desktop apps.
 - Small, focused projects built around working software rather than hype
 
 ### Highlights
-- **LLM Wars** — a turn-based strategy game where the AI opponent explains its reasoning in natural language  
+- **LLM Wars** — a turn-based strategy prototype with structured LLM opponents, validated actions, and natural-language reasoning.  
   Demo: https://horbachm-cpu.github.io/llmwars/
 
-- **Titanforge Hero Planner** — an Electron desktop planner and simulator for Shop Titans hero, roster, and quest workflows
+- **Titanforge Hero Planner** — is a desktop planner and simulator for Shop Titans hero builds, roster decisions, and combat outcomes using electron.
 
 - **Open Source Doctor** — a local CLI that scores how ready a repository is for humans to understand, use, and contribute to
